@@ -1,0 +1,8 @@
+﻿ZoneID,MunicipalLevelType,Category,TotalPopSUM,PovertySUM,PctPoverty
+1,Mostly Uninhabited Area: Very Low Density Area,Rural,"74,406,516.01","48,404,824.74",0.650545508
+2,Rural Dispersed Area: Low Density Area,Rural,"16,518,596.30","10,565,154.82",0.639591563
+3,Village: Small Settlement,Rural,"13,038,141.14","8,482,117.71",0.650561888
+4,Suburbs Or Peri- Urban Area: Semi-Dense Area,Urban,"4,234,573.08","2,154,209.67",0.508719446
+5,"Semi-Dense Town: Semi-Dense, Medium Settlement",Urban,"310,160.08","167,566.48",0.54025805
+6,"Dense Town: Dense, Medium Settlement",Urban,"6,953,570.37","4,219,187.41",0.606765616
+7,City: Large Settlement,Urban,"42,900,236.90","17,311,224.15",0.40352281
